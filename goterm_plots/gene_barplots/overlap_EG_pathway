@@ -1,0 +1,7 @@
+Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y
+rRNA processing	BioSystems: REACTOME	8.59E-85	2.02E-81	1.01E-81	8.41E-81
+Ribosome	BioSystems: KEGG	1.20E-59	2.81E-56	5.62E-57	4.69E-56
+Translation	BioSystems: REACTOME	1.63E-59	3.82E-56	6.37E-57	5.31E-56
+Nonsense-Mediated Decay (NMD)	BioSystems: REACTOME	5.66E-53	1.33E-49	7.00E-51	5.84E-50
+Spliceosome	MSigDB C2 BIOCARTA (v7.1)	1.25E-36	2.94E-33	9.19E-35	7.66E-34
+Aminoacyl-tRNA biosynthesis	MSigDB C2 BIOCARTA (v7.1)	1.24E-22	2.92E-19	5.40E-21	4.51E-20

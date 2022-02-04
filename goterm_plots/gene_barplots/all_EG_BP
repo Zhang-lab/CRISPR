@@ -1,0 +1,16 @@
+Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y
+chromatin remodeling	 	1.09E-08	9.43E-05	2.74E-07	2.64E-06
+in utero embryonic development	 	4.72E-08	4.08E-04	1.08E-06	1.04E-05
+positive regulation of canonical Wnt signaling pathway	 	9.92E-08	8.59E-04	2.12E-06	2.04E-05
+blastocyst development	 	3.03E-06	2.62E-02	5.24E-05	5.05E-04
+embryo development	 	7.34E-06	6.35E-02	1.16E-04	1.12E-03
+regulation of stem cell differentiation	 	8.00E-06	6.92E-02	1.25E-04	1.20E-03
+cellular response to hypoxia	 	4.04E-05	3.49E-01	5.52E-04	5.32E-03
+stem cell population maintenance	 	6.87E-05	5.94E-01	9.01E-04	8.69E-03
+sterol metabolic process	 	8.58E-05	7.42E-01	1.10E-03	1.06E-02
+histone methylation	 	8.78E-05	7.60E-01	1.12E-03	1.08E-02
+tumor necrosis factor-mediated signaling pathway	 	1.19E-03	1.00E+00	1.23E-02	1.18E-01
+positive regulation of trophoblast cell migration	 	1.43E-03	1.00E+00	1.39E-02	1.34E-01
+histone acetylation	 	1.60E-03	1.00E+00	1.54E-02	1.49E-01
+regulation of morphogenesis of an epithelium	 	2.15E-03	1.00E+00	2.00E-02	1.93E-01
+response to epidermal growth factor	 	3.32E-03	1.00E+00	2.95E-02	2.85E-01

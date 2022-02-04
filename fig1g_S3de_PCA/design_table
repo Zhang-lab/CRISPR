@@ -1,0 +1,11 @@
+name	condition	contrast
+AN_STB	AN_STB	0
+AN_EVT	AN_EVT	1
+AN_naive_TSC	AN_naive_TSC	2
+AN_naive	AN_naive	3
+AN_primed	AN_primed	4
+H9_STB	H9_STB	0
+H9_EVT	H9_EVT	1
+H9_naive_TSC	H9_naive_TSC	2
+H9_naive	H9_naive	3
+H9_primed	H9_primed	4

@@ -1,0 +1,9 @@
+
+  Rscript make_go_barplot.R all_CnT_BP
+ Rscript make_go_barplot.R all_EG_BP
+Rscript make_go_barplot.R all_EG_pathway
+  Rscript make_go_barplot.R GRG_BP
+   Rscript make_go_barplot.R overlap_EG_pathway
+   Rscript make_go_barplot.R hTSC_specific_EG_pathway
+
+

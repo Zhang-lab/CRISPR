@@ -1,0 +1,7 @@
+Name	rank	pval	q-value FDR B&H
+embryonic placenta development	1	6.71E-12	8.83E-08
+hippo signaling	3	1.56E-10	6.84E-07
+positive regulation of T cell mediated immunity	11	1.13E-08	1.34742E-05
+regulation of reactive oxygen species biosynthetic process	31	7.92E-07	0.000336185
+cell-substrate junction assembly	32	8.41E-07	0.000345866
+embryonic placenta morphogenesis	42	1.69162E-06	0.000530001

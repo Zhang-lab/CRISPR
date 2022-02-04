@@ -1,0 +1,12 @@
+
+git init
+   git status
+   git remote add origin https://github.com/Zhang-lab/CRISPR.git
+   git push -u origin master
+   git add .
+   git status
+   git commit -m "Second commit"
+   git remote add origin https://github.com/Zhang-lab/CRISPR.git
+   git push -u origin master
+
+

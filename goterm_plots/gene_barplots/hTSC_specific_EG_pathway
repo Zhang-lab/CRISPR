@@ -1,0 +1,7 @@
+Name	Source	p-value	q-value Bonferroni	q-value FDR B&H	q-value FDR B&Y
+HDACs deacetylate histones	BioSystems: REACTOME	4.70E-06	1.18E-02	6.95E-04	5.84E-03
+Signaling events mediated by focal adhesion kinase	BioSystems: Pathway Interaction Database	2.56E-05	6.42E-02	2.01E-03	1.69E-02
+PRC2 methylates histones and DNA	BioSystems: REACTOME	1.34E-04	3.37E-01	6.74E-03	5.67E-02
+DNA methylation	BioSystems: REACTOME	1.75E-04	4.39E-01	7.98E-03	6.71E-02
+MAPKinase Signaling Pathway	MSigDB C2 BIOCARTA (v7.1)	1.07E-03	1.00E+00	2.83E-02	2.38E-01
+TNFR1 Signaling Pathway	MSigDB C2 BIOCARTA (v7.1)	1.69E-03	1.00E+00	4.02E-02	3.38E-01

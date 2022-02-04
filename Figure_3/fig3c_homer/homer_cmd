@@ -1,0 +1,4 @@
+
+/home/zhangbo/Tools/homer/bin/annotatePeaks.pl filtered_peaks_3of3_qvalGt5_min2.bed hg38 -annStats stat_peaks
+
+

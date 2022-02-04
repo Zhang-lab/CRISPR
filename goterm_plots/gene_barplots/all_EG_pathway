@@ -1,0 +1,8 @@
+Name	Source	p-value	q-value Bonferroni	q-value FDR B&H
+Integrin-linked kinase signaling	MSigDB C2 BIOCARTA (v7.1)	1.03E-06	3.03E-03	1.04E-05
+Steroid biosynthesis	MSigDB C2 BIOCARTA (v7.1)	9.06E-05	2.68E-01	6.26E-04
+pentose phosphate pathway	BioSystems: BIOCYC	1.94E-04	5.72E-01	1.27E-03
+ErbB1 downstream signaling	MSigDB C2 BIOCARTA (v7.1)	1.59E-03	1.00E+00	8.79E-03
+Regulation of cytoplasmic and nuclear SMAD2/3 signaling	MSigDB C2 BIOCARTA (v7.1)	2.35E-03	1.00E+00	1.28E-02
+mTOR Signaling Pathway	MSigDB C2 BIOCARTA (v7.1)	4.58E-03	1.00E+00	2.33E-02
+Hypoxic and oxygen homeostasis regulation of HIF-1-alpha	MSigDB C2 BIOCARTA (v7.1)	7.30E-03	1.00E+00	3.51E-02

@@ -1,0 +1,14 @@
+
+#2021-04-19 Include Group 1/2/3
+
+
+computeMatrix reference-point -R filtered_peaks_3of3_qvalGt5_min2.bed -S naive_uniq_data_naive.bw shared_data_naive.bw  TSC_uniq_data_naive.bw --referencePoint center -a 5000 -b 5000 -bs 100 --missingDataAsZero -p 24 -o matrix_naive_compare_overCnT
+
+plotHeatmap -m matrix_naive_compare_overCnT -o naive_compare_overCnT.pdf --heatmapHeight 11 --perGroup --heatmapWidth 11 -min 0  --colorList '#ffffff,orange,#000000' --yMax 1.8
+
+
+computeMatrix reference-point -R filtered_peaks_3of3_qvalGt5_min2.bed -S shared_data_TSC.bw TSC_uniq_data_TSC.bw naive_uniq_data_TSC.bw --referencePoint center -a 5000 -b 5000 -bs 100 --missingDataAsZero -p 24 -o matrix_TSC_compare_overCnT
+
+plotHeatmap -m matrix_TSC_compare_overCnT -o TSC_compare_overCnT.pdf --heatmapHeight 11 --perGroup --heatmapWidth 11 -min 0  --colorList '#ffffff,orange,#000000' --yMax 1.8
+
+
