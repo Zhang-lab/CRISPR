@@ -7,7 +7,7 @@ Platform: x86_64-pc-linux-gnu (64-bit)
 Running under: Ubuntu 16.04.6 LTS
 
 R packages used: 
-library(ggplot2)
+library(ggplot2)\n
 library(RColorBrewer)
 library(RPMG)
 library(Hmisc)
